@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 👋
 
 <!--
 **devjoonn/devjoonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjoonn)](https://github.com/devjoonn/github-readme-stats)
+ I’m Hyeonjun Park, a growing developer. 🌱
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjoonn&show_icons=true)](https://github.com/devjoonn/github-readme-stats)
